@@ -1,0 +1,1 @@
+- [ ] Read the book Peeling design patterns.

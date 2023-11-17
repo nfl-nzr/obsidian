@@ -1,0 +1,22 @@
+- [ ] Understand the Basics
+	- [ ] Configuration Management: Grasp the concept of configuration management and why it's essential in modern IT environments.
+	- [ ] Infra as code: Familiarize yourself with the IaC principle since Ansible adopts this concept.
+- [ ] **Setup a Lab Environment** 
+	- [ ] Use virtualization tools like VirtualBox, Vagrant, or VMware. Create a few VMs: one for the Ansible control node and others as target nodes.
+- [ ] Install Ansible:
+	- [ ] Start by installing Ansible on the control node. Ansible is agentless, so you don't need to install anything on the target nodes, but you do need SSH access.
+- [ ] Hands on with Ad-hoc Commands:
+	- [ ] Before diving into playbooks, use ad-hoc commands to perform operations on your target nodes. This gives you a feel for how Ansible communicates and executes tasks.
+- [ ] Dive into Playbooks:
+	- [ ] Write simple playbooks using YAML. Start with tasks like updating packages, creating users, or copying files. Gradually introduce more complex tasks and structures like loops and conditionals.
+- [ ] Understand Inventory:
+	- [ ] Learn how to group and organize target nodes in the inventory. Understand the difference between static and dynamic inventories.
+- [ ] **Roles and Ansible Galaxy**:
+	- [ ] Roles allow you to bundle automation content and reuse it. Explore Ansible Galaxy, which is a community hub for sharing Ansible roles.
+- [ ] Variables and Templates:
+	- [ ] Variables let you customize playbooks. Templates (using the Jinja2 templating engine) allow dynamic generation of files based on variables.
+- [ ] Error Handling and Debugging:
+	- [ ] Familiarize yourself with common errors, how to read Ansible output, and use the debug module.
+- [ ] Explore Modules:
+	- [ ] Ansible has a multitude of built-in modules. Each module serves specific purposes, from managing files to controlling cloud resources.
+- [ ] 

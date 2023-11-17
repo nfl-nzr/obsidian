@@ -1,0 +1,1 @@
+1. Postgresql Up And Running [[Regina Obe, Leo Hsu - PostgreSQL_ Up and Running_ A Practical Guide to the Advanced Open Source Database-O'Reilly Media (2012).pdf]]
